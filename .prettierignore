@@ -1,0 +1,6 @@
+build
+resources
+public
+static/fork-awesome
+static/css/custom.css
+layouts/partials/custom_head.html
